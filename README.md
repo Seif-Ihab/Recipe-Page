@@ -1,2 +1,2 @@
 # Recipe-Page
-Frontmentor-1st challange 
+Frontmentor-1st challenge 
